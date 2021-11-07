@@ -160,7 +160,7 @@ ___
 
 放个图片：
 
-![v2-9a72fc209de0b586cced6ebbd6f131ed](C:\Users\lll\Desktop\没有用照片\v2-9a72fc209de0b586cced6ebbd6f131ed.jpg "你好~")
+![img](http://mms1.baidu.com/it/u=1293202089,3111055882&fm=253&app=120&f=JPEG?w=500&h=500 "你好")
 
 * 进阶，图片点击能进入你设定的链接中：\[\!\[图片alt](图片链接 "图片title") ]\(你放的链接)
 
