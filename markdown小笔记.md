@@ -83,6 +83,8 @@
 > >
 > >
 > >> 以此类推
+> >>
+> >> `注：经过检查，我于本地打的ci变为上面的“虚假”，有时间将会探究`
 
 
 
@@ -154,13 +156,13 @@ ___
 
 ### 10. Markdown图片语法
 
-* 插入图片Markdown语法代码：\![图片alt](图片链接 "图片title") 
+* 插入图片Markdown语法代码：\!\[图片alt](图片链接 "图片title") 
 
 放个图片：
 
 ![v2-9a72fc209de0b586cced6ebbd6f131ed](C:\Users\lll\Desktop\没有用照片\v2-9a72fc209de0b586cced6ebbd6f131ed.jpg "你好~")
 
-* 进阶，图片点击能进入你设定的链接中：\[![图片alt](图片链接 "图片title") ]\(你放的链接)
+* 进阶，图片点击能进入你设定的链接中：\[\!\[图片alt](图片链接 "图片title") ]\(你放的链接)
 
 再放个图片：
 
@@ -176,7 +178,7 @@ ___
 
 没加：**我好帅**
 
-加了：\**我好帅**
+加了：\*\*我好帅**
 
 * `please多实践`
 
@@ -198,7 +200,7 @@ ___
 | !         | exclamation mark                                             |
 | \|        | pipe (see also [escaping pipe in tables](https://markdown.com.cn/extended-syntax/escaping-pipe-characters-in-tables.html)) |
 
-`参考于[Markdown语法](https://markdown.com.cn "建议直接去那边哦")`
+`参考于`[Markdown语法](https://markdown.com.cn "建议直接去那边哦")
 
 
 
