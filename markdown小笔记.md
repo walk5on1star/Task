@@ -154,13 +154,13 @@ ___
 
 ### 10. Markdown图片语法
 
-* 插入图片Markdown语法代码：![图片alt](图片链接 "图片title") 
+* 插入图片Markdown语法代码：\![图片alt](图片链接 "图片title") 
 
 放个图片：
 
 ![v2-9a72fc209de0b586cced6ebbd6f131ed](C:\Users\lll\Desktop\没有用照片\v2-9a72fc209de0b586cced6ebbd6f131ed.jpg "你好~")
 
-* 进阶，图片点击能进入你设定的链接中：[![图片alt](图片链接 "图片title") ]\(你放的链接)
+* 进阶，图片点击能进入你设定的链接中：\[![图片alt](图片链接 "图片title") ]\(你放的链接)
 
 再放个图片：
 
