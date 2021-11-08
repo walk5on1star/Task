@@ -61,7 +61,7 @@
 >
 > 3. 在git bash中输入`git remote add origin git@github.com:michaelliao/learngit.git`命令
 >
->    * 注：orgin后面的链接可于github中仓库直接复制过来，如图：![QQ截图20211108172222](D:\localtask\git小笔记.assets\QQ截图20211108172222.png)
+>    * 注：orgin后面的链接可于github中仓库直接复制过来，如图：![QQ截图20211108172222.png](https://i.loli.net/2021/11/08/DVOcTSebRKr3YUw.png)
 >
 >    这就关联好了，后面直接输入`git push -u origin master`命令，稍作等待，即完成把本地仓库的内容推送到远程仓库
 >
