@@ -66,7 +66,7 @@ HTML标签集在哪里鸭？
 * * 空元素是在开始标签中关闭的
   * \<br> （定义换行）就是没有关闭标签的空元素
 
-> HTML 标签对大小写不敏感：<P> 等同于 <p>。许多网站都使用大写的 HTML 标签。
+> HTML 标签对大小写不敏感：\<P> 等同于 \<p>。许多网站都使用大写的 HTML 标签。
 >
 > > 但暂时推荐使用小写。
 
@@ -77,11 +77,15 @@ HTML标签集在哪里鸭？
 * 属性总是以名称/值对的形式出现，如：name="value"
 * 属性总是在 HTML 元素的开始标签中
 
-* * 例子:<h1> 定义标题的开始。
+* * 例子：\<h1> 定义标题的开始。
+
+    \<h1 align="center"> 拥有关于对齐方式的附加信息。
+
+    效果：<h1> 定义标题的开始。
 
     <h1 align="center"> 拥有关于对齐方式的附加信息。
 
-    [TIY : 居中排列标题](https://www.w3school.com.cn/tiy/t.asp?f=eg_html_header)
+    加个链接：[TIY : 居中排列标题](https://www.w3school.com.cn/tiy/t.asp?f=eg_html_header)
 
 > 属性和属性值对大小写不敏感,但推荐小写。
 
@@ -135,24 +139,24 @@ text-align 属性规定了元素中文本的水平对齐方式
 
 ### 内联元素：
 
-a – 锚点 
-abbr – 缩写 
-b – 粗体(不推荐) 
-big – 大字体 
-br – 换行 
-cite – 引用 
-code – 计算机代码(在引用源码的时候需要) 
-em – 强调 
-font – 字体设定(不推荐) 
-i – 斜体 
-img – 图片 
-input – 输入框 
-kbd – 定义键盘文本 
-label – 表格标签 
-q – 短引用 
-span – 常用内联容器，定义文本内区块 
-strong – 粗体强调 
-textarea – 多行文本输入框
+a – 锚点 <br>
+abbr – 缩写 <br>
+b – 粗体(不推荐) <br>
+big – 大字体 <br>
+br – 换行 <br>
+cite – 引用 <br>
+code – 计算机代码(在引用源码的时候需要) <br>
+em – 强调 <br>
+font – 字体设定(不推荐) <br>
+i – 斜体 <br>
+img – 图片 <br>
+input – 输入框 <br>
+kbd – 定义键盘文本 <br>
+label – 表格标签 <br>
+q – 短引用 <br>
+span – 常用内联容器，定义文本内区块 <br>
+strong – 粗体强调 <br>
+textarea – 多行文本输入框<br>
 
 > 内联元素(inline)不会独占一行，相邻的内联元素会排在同一行。其宽度随内容的变化而变化。 
 >
